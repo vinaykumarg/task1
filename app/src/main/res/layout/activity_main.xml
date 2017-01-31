@@ -28,8 +28,7 @@
 
             <FrameLayout
                 android:layout_width="@dimen/layoutwidth"
-                android:layout_height="@dimen/layoutheight"
-                android:layout_toLeftOf="@+id/frameLayout">
+                android:layout_height="@dimen/layoutheight">
 
                 <LinearLayout
                     android:orientation="vertical"
