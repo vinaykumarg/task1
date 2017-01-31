@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">task1</string>
+    <string name="title_activity_tabsscreen">tabsscreen</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+</resources>

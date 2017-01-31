@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\office\task1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\office\task1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_e6c92cdd6717f66456539287a3e0f2a5798b596a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\office\task1\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="D:\office\task1\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_29b606268eeeef30679cb42f6c5d34f13fcf53b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\office\task1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\office\task1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_89210bd9964cc15dde8deb0acfb4b01396886977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\office\task1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\office\task1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_509b053d170d5b23ee93f1f49b01f11e75d46800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\office\task1\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="D:\office\task1\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_a021463448d5b23cd2f3271b5fe989444f00d8b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\office\task1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\office\task1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_0a82eeb114c00dbde8a84c86605e0511a41d7725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\office\task1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\office\task1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_90f56974603941d9a362fefbaa5c3ce1b6e5311d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\office\task1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\office\task1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_c88951f47ec53f56f8ff6585cee12918c4965b9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\office\task1\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-beta4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="D:\office\task1\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-beta4_27a790612fd8db45fecdd6cfdae1208b3b4c3cd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\office\task1\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_fff2c938fc93574a7c55d46cd2a7ab3223a54b7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\office\task1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\office\task1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_97fb35edffd5229ae7f209ffc082d4d9b49621c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-beta4\constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="D:\office\task1\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-beta4_0a1a51452886a4374f029187c8cda582b3326c21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\office\task1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\office\task1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_561f4d007d89e5c16b099de1edd4795ebe856fdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\office\task1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\office\task1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_4499e5d2adf8e5022aad019df1ef04dbe4833234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\office\task1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="D:\office\task1\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_20a6f0d840d1525304acb233981547d36774b757.jar" />
+    </item>
+
+</items>
